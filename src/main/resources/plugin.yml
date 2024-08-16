@@ -1,0 +1,4 @@
+name: Cooldown
+version: '1.0'
+main: com.al3x.cooldown.Main
+api-version: '1.21'

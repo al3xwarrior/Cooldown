@@ -1,0 +1,4 @@
+# The values are in ticks (20 ticks = 1 second)
+EnderPearlCooldown: 0
+WindChargeCooldown: 0
+GoatHornCooldown: 0
